@@ -1,6 +1,6 @@
 body{
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background: url(/public/styles/images/fundo-2.jpg); /*linear-gradient(#4F2C77, #A968A2, #DC7C7D)*/
+	background: url(/public/images/fundo-2.jpg); /*linear-gradient(#4F2C77, #A968A2, #DC7C7D)*/
 }
 
 #container{
@@ -36,11 +36,11 @@ input{
 
 
 input.email{
-	background-image: url(/public/styles/images/icone-usuario.png);
+	background-image: url(/public/images/icone-usuario.png);
 }
 
 input.senha{
-	background-image: url(/public/styles/images/icone-cadeado.png);
+	background-image: url(/public/images/icone-cadeado.png);
 }
 
 input.submit{
